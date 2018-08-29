@@ -7,9 +7,9 @@ Contents:
      Arithmetic Operations
      Strings
      List
-    * IF Statement
-    * For Loop
-    * break and continue Statements in Loops
+    # IF Statement
+    ## For Loop
+    ### break and continue Statements in Loops
     * Functions
     * Lambda Expressions
     * Map Functions
