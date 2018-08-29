@@ -4,9 +4,9 @@ Course Professor: Leon Jololian, Ph.D.
 University of alabama at birmingham
 
 Contents:
-     Arithmetic Operations
-     Strings
-     List
+     Arithmetic Operations  
+     Strings  
+     List  
     # IF Statement
     ## For Loop
     ### break and continue Statements in Loops
