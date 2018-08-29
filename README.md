@@ -4,7 +4,7 @@ Course Professor: Leon Jololian, Ph.D.
 University of alabama at birmingham
 
   Contents:      
-         *Arithmetic Operations
+         *Arithmetic Operations  
          *Strings  
          *List  
          *IF Statement  
