@@ -3,7 +3,7 @@ Machine Learning EE-690
 Course Professor: Leon Jololian, Ph.D. 
 University of alabama at birmingham
 
-  -Contents:      
+  1.Contents:      
          -Arithmetic Operations  
          *Strings  
          *List  
