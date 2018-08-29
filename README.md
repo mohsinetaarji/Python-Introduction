@@ -1,7 +1,7 @@
 # Python-Introduction
-Machine Learning EE-690
-Course Professor: Leon Jololian, Ph.D. 
-University of alabama at birmingham
+Machine Learning EE-690  
+Course Professor: Leon Jololian, Ph.D.  
+University of alabama at birmingham  
 
 Contents:      
 * Arithmetic Operations  
